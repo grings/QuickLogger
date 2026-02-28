@@ -1,6 +1,6 @@
 ![alt text](docs/QuickLogger.png "QuickLogger") 
 
-Delphi(Delphi XE6 - Delphi 12 Athens)/Freepascal(trunk)/.NET (Windows/Linux/Android/MACOSX/IOS) library for logging on multi providers:
+Delphi(Delphi XE6 - Delphi 13 Florence)/Freepascal(trunk)/.NET (Windows/Linux/Android/MACOSX/IOS) library for logging on multi providers:
 - Files
 - Console
 - Memory
@@ -34,6 +34,8 @@ If you find this project useful, please consider making a donation.
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BKLKPNEYKSBKL)
 
 ### Updates:
+
+**Feb 28,2026** RAD Studio 13 supported
 
 **Feb 10,2024** RAD Studio 12 supported
 
